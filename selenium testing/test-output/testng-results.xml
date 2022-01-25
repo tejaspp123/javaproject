@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="86" started-at="2022-01-23T22:43:25 IST" finished-at="2022-01-23T22:43:25 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="86" started-at="2022-01-23T22:43:25 IST" finished-at="2022-01-23T22:43:25 IST">
+      <class name="testng.logintestcase">
+        <test-method status="PASS" signature="loginwithemptyusername()[pri:0, instance:testng.logintestcase@4232c52b]" name="loginwithemptyusername" duration-ms="7" started-at="2022-01-23T22:43:25 IST" finished-at="2022-01-23T22:43:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithemptyusername -->
+        <test-method status="PASS" signature="loginwithinvalidusername()[pri:0, instance:testng.logintestcase@4232c52b]" name="loginwithinvalidusername" duration-ms="2" started-at="2022-01-23T22:43:25 IST" finished-at="2022-01-23T22:43:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithinvalidusername -->
+        <test-method status="PASS" signature="loginwithvalidusername()[pri:0, instance:testng.logintestcase@4232c52b]" name="loginwithvalidusername" duration-ms="15" started-at="2022-01-23T22:43:25 IST" finished-at="2022-01-23T22:43:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithvalidusername -->
+      </class> <!-- testng.logintestcase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

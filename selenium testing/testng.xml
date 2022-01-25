@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="testng.actitimeloginwithassertcondition"/>
+      <class name="testng.sampletesting"/>
+      <class name="testng.actitimeloginwithclasslevelannotation"/>
+      <class name="testng.Actitimetask"/>
+      <class name="testng.sampletesting1"/>
+      <class name="testng.logintestcasewithdependson"/>
+      <class name="testng.googleapplicationwithbeforeaftertest"/>
+      <class name="testng.AllAttributesinone"/>
+      <class name="testng.logintestcasewithpriority"/>
+      <class name="testng.Groupexample"/>
+      <class name="testng.logintestcase"/>
+      <class name="testng.logintestcasewithtimeout"/>
+      <class name="testng.logintestcasewithenabled"/>
+      <class name="testng.testcasewithdiscription"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
